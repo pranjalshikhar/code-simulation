@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useRef, useEffect } from 'react';
 import toast from 'react-hot-toast';
 import ACTIONS from '../Actions';
@@ -98,7 +99,7 @@ const EditorPage = () => {
                     <div className="logo">
                         <img
                             className="logoImage"
-                            src="/code-sync.png"
+                            src="/code.png"
                             alt="logo"
                         />
                     </div>

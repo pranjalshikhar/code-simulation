@@ -20,7 +20,7 @@ footer {
 }
 
 footer a {
-  color: #FF0404;
+  color: #E41987;
 }
 
 .inputGroup {
@@ -61,14 +61,14 @@ footer a {
 
 .joinBtn,
 .leaveBtn {
-  background: #FF0404;
+  background: #E41987;
   width: 100px;
   margin-left: auto;
 }
 
 .joinBtn:hover,
 .leaveBtn:hover {
-  background: #8C2323;
+  background: #870049;
 }
 
 .createInfo {
@@ -77,16 +77,16 @@ footer a {
 }
 
 .createNewBtn {
-  color: #FF0404;
+  color: #E41987;
   text-decoration: none;
-  border-bottom: 1px solid #FF0404;
+  border-bottom: 1px solid #E41987;
   transition: all 0.3s ease-in-out;
 }
 
 .createNewBtn:hover,
 footer a:hover {
-  color: #8C2323;
-  border-color: #8C2323;
+  color: #870049;
+  border-color: #870049;
 }
 
 .mainWrap {
